@@ -63,7 +63,7 @@ body {
 }
 
 @media (max-width: 1028px) {
-  .phone-image, table-element {
+  .phone-image, .table-element {
     position: relative;
     transform: rotate(0);
     top: 100px;
