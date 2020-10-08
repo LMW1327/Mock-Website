@@ -55,7 +55,7 @@ body {
   width: 236px;
 }
 
-.phone-image {
+.table-element  {
   position: absolute;
   transform: rotate(25deg);
   right: 30%;
