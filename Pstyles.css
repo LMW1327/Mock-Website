@@ -1,0 +1,204 @@
+body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#title {
+  background-color: #f3f0eb;
+  position: relative;
+  z-index: 1;
+  padding: 0 0 15% 0;
+}
+
+.navbar {
+  margin-bottom: 3%;
+  margin-left: 0;
+  font-size: 1.4rem;
+  background-color: #006a71;
+}
+
+.navbar-brand {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.color-taskbar {
+  color: #ff7e67;
+}
+
+.color-taskbar:hover {
+  color: #006a71;
+}
+
+.title-table {
+  top: 100px;
+}
+
+.click-color {
+  background-color: #68b0ab;
+  color: #ecf4f3;
+  text-align: center;
+  border: 1px solid #68b0ab;
+  margin: 0 10px 4.5% 0;
+}
+
+.click-color:hover {
+  background-color: #006a71;
+  color: #ff7e67;
+  border: 1px solid #ff7e67;
+}
+
+.too-small {
+  width: 236px;
+}
+
+.phone-image {
+  position: absolute;
+  transform: rotate(25deg);
+  right: 30%;
+  top: 5%;
+}
+
+.title-text {
+  text-align: left;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+#features {
+  background-color: #006a71;
+  color: #d49a89;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 10% 0 10%;
+}
+
+.feature-div {
+  margin-top: 30px;
+}
+
+.feature-text {
+  margin-top: 4%;
+  font-weight: bold;
+}
+
+.feature-text-small {
+  font-size: 1.25rem;
+  margin-top: 5%;
+}
+
+#testimonials {
+  background-color: #f3f0eb;
+  position: relative;
+  z-index: 1;
+  padding: 5% 0;
+}
+
+.testimonial-image {
+  border: 5px solid #d49a89;
+  border-radius: 100%;
+  margin-top: 2%;
+}
+
+.title-text,.testimonial-text,.pricing-text,.social-heading-text {
+  color: #ff7e67;
+  font-size: 3em;
+  margin: 2% 0 0;
+}
+
+.stars {
+  color: #cbaf87;
+  font-size: 32px;
+}
+
+.testimonial-text-2 {
+  color: #d49a89;
+  font-size: 1.5em;
+  margin-top: 0.5%;
+}
+
+
+#press {
+  position: relative;
+  z-index: 1;
+}
+
+#pricing {
+  background-color: #006a71;
+  position: relative;
+  z-index: 1;
+  padding: 8% 0;
+  font-size: 1.25em;
+}
+
+.pricing-text, .social-heading-text {
+  margin: 0 0 4%;
+}
+
+.card {
+  border: 2px solid #ff7e67;
+}
+
+.card-header {
+  border: 1px solid #ff7e67;
+  padding: 0;
+  color: #50707a;
+}
+
+.Beetroot {
+  background-color: #7f2a49;
+  padding: 2%;
+  font-size: 2em;
+}
+
+.Carrot {
+  background-color: #ed9121;
+  padding: 2%;
+  font-size: 2em;
+}
+
+.Mint {
+  background-color: #3eb489;
+  padding: 2%;
+  font-size: 2em;
+}
+
+.card-body {
+  background-color: #ecf4f3;
+  color: #348d8e;
+  border: 1px solid #ff7e67;
+}
+
+#social {
+  position: relative;
+  z-index: 1;
+  background-color: #f3f0eb;
+  padding: 5% 0 0;
+}
+
+.social-button {
+  width: 230px;
+}
+
+.fa-lg {
+  margin-left: 20%;
+}
+
+#footer {
+  position: relative;
+  z-index: 1;
+  background-color: #006a71;
+  padding: 0.5% 0 0.1%;
+}
+.color-Copyright {
+  color: #ff7e67;
+}
+
+.color-Copyright:hover {
+  color: #ecf4f3;
+}
