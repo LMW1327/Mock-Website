@@ -85,6 +85,10 @@ body {
   padding: 10% 0 10%;
 }
 
+#features:hover {
+  color: #ff7e67;
+}
+
 .feature-div {
   margin-top: 30px;
 }
